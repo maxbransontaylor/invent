@@ -1,5 +1,7 @@
 # InVent - An Event Coordinating App
 
+## This branch contains the source code before refactor.
+
 ## Collaborators
 
 - [Hannah Brownson](https://github.com/Hannahbird)
